@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "code": "101",
+      "name": "Shirt",
+      "mrp": "799",
+      "sp": "599",
+      "cp": "400",
+      "tax": "5",
+      "cls": "Clothes",
+      "size": "no size",
+      "color": "color",
+      "brand": "no brand",
+      "material": "no material"
+    },
+    {
+      "code": "102",
+      "name": "Laptop",
+      "mrp": "55000",
+      "sp": "48999",
+      "cp": "42000",
+      "tax": "5",
+      "cls": "Clothes",
+      "size": "no size",
+      "color": "color",
+      "brand": "no brand",
+      "material": "no material"
+    }
+  ]
+}
